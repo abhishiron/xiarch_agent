@@ -1,0 +1,7 @@
+groq>=0.18.0
+serpapi>=0.1.5
+apify-client>=1.7.0
+python-dotenv>=1.0.0
+rich>=13.0.0
+pytest>=8.0.0
+pytest-mock>=3.14.0

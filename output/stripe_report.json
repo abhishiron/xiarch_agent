@@ -1,0 +1,114 @@
+{
+  "company": "Stripe",
+  "generated_at": "2026-09-25T15:59:39.703149+00:00",
+  "sections": {
+    "overview": "**Stripe – Company Overview**\n\n- **Founded**: 2010 by Irish brothers Patrick and John Collison.  \n- **Core focus**: Build a developer‑first payment infrastructure that simplifies online and mobile payments.  \n- **Business model**: Provides APIs, checkout widgets, global payment processing, and embedded‑finance tools for merchants and SaaS platforms.  \n- **Financial highlights** (as of the latest public data):  \n  - Net revenue ≈ $5.8 billion (source: 2021‑level reports).  \n  - Valuation ≈ $95 billion (reported in March 2021).  \n  *Both figures are approximate and reflect the most recent public disclosures.*  \n- **Product cadence**: Releases over 100 new features each year (source: DataArt).  \n- **Technology & services**:  \n  - Robust developer resources and integration tools.  \n  - AI‑enhanced risk management, reporting (Dashboard & Sigma), and monetization features.  \n  - Partnerships (e.g., ElevenLabs) to support AI‑driven growth.  \n- **Strategic positioning**: Recognized as a leader in embedded finance and agentic commerce, with a focus on high‑performing checkouts and global payment optimization.  \n\n*All statements are drawn directly from the supplied evidence; any figures are noted as approximate where the source indicates.*",
+    "products": "**Stripe’s key products and services (based on the supplied evidence)**  \n\n- **Payment‑processing platform** for online merchants and mobile apps.  \n  *Evidence:* “Stripe grew into a Silicon Valley juggernaut by building payment processing software for online merchants and mobile apps.”  \n\n- **Checkout solutions** that deliver high‑performing, globally‑optimized payment flows.  \n  *Evidence:* “Stripe is helping you get ready for agentic commerce and boost your revenue with high‑performing checkouts and global payments optimizations.”  \n\n- **Developer‑centric API and toolset** that lets developers embed Stripe’s payment capabilities into their own applications.  \n  *Evidence:* “The company provides developers with a robust set of tools and resources to integrate Stripe's payment solutions into their own applications.”  \n\n- **Embedded‑finance platform** positioned as a market leader.  \n  *Evidence:* “Stripe Leads Embedded Finance Market in 2026.”  \n\n- **Risk‑management and monetization features** announced in recent product roadmaps.  \n  *Evidence:* “New ways to manage risk. New ways to monetize.”  \n\n- **Lending and application‑programming services** (in addition to core payment processing).  \n  *Evidence:* “Stripe … offers payment processing and application programming …”  \n\n*Uncertainty:* The evidence does not name specific product lines such as “Stripe Connect” or “Stripe Billing,” so those are not listed. The exact scope of the lending and application‑programming services is not detailed.",
+    "competitors": [
+      {
+        "name": "Competitive analysis",
+        "evidence": "No competitor analysis was collected."
+      }
+    ],
+    "developments": "No recent-development analysis was collected.",
+    "swot": "No SWOT analysis was collected.",
+    "sources": [
+      {
+        "title": "How Stripe Became the Internet's Payment Layer by Solving a ...",
+        "url": "https://www.thefoundernation.com/how-stripe-became-the-internets-payment-layer-by-solving-a-problem-for-developers-not-merchants/"
+      },
+      {
+        "title": "From Rural Ireland to Silicon Valley: A Case Study of Stripe",
+        "url": "https://medium.com/@jeremy.haddock/stripe-f2330ad06db8"
+      },
+      {
+        "title": "Stripe was born… | Marcel van Oost | 37 comments",
+        "url": "https://www.linkedin.com/posts/marcelvanoost_stripe-founded-in-2010-by-patrick-and-john-activity-7204856969516437504-zCvQ"
+      },
+      {
+        "title": "Exploring Stripe's Enterprise Go-To-Market Strategy",
+        "url": "https://www.productroadmap.ai/go-to-market/exploring-stripe-s-enterprise-go-to-market-strategy"
+      },
+      {
+        "title": "Kevin Miller posted on the topic",
+        "url": "https://www.linkedin.com/posts/kevinmiller_payments-has-always-been-the-beating-heart-activity-7455348921935220736-vgZ6"
+      },
+      {
+        "title": "Stripe is already a payments colossus. Now it wants to ...",
+        "url": "https://finance.yahoo.com/news/stripe-already-payments-colossus-now-202948113.html"
+      },
+      {
+        "title": "DataArt Offers Stripe Expert Services",
+        "url": "https://www.dataart.com/stripe"
+      },
+      {
+        "title": "Is Stripe's Lending and Payments Platform Move the Future ...",
+        "url": "https://thefinancialbrand.com/news/payments-trends/stripe-square-intuit-business-banking-ecosystem-shopify-platformication-payments-lending-trend-104956"
+      },
+      {
+        "title": "Stripe Alternatives | Top 7 Providers in 2026",
+        "url": "https://www.paddle.com/alternatives/stripe"
+      },
+      {
+        "title": "I made a list of all Stripe™️ alternatives (StripeAlternatives ...",
+        "url": "https://www.reddit.com/r/SideProject/comments/18mrs2d/i_made_a_list_of_all_stripe_alternatives/"
+      },
+      {
+        "title": "5 Best Stripe Alternatives in 2026",
+        "url": "https://finix.com/resources/blogs/best-stripe-alternatives"
+      },
+      {
+        "title": "The Best Stripe Alternatives To Use In 2026",
+        "url": "https://www.youtube.com/watch?v=UUsOWyqUCjw"
+      },
+      {
+        "title": "Best Stripe Connect Alternatives for Business Payouts",
+        "url": "https://tipalti.com/resources/learn/stripe-competitors-and-alternatives/"
+      },
+      {
+        "title": "Top Stripe Payments Alternatives & Competitors 2026",
+        "url": "https://www.gartner.com/reviews/product/stripe-payments/alternatives"
+      },
+      {
+        "title": "Stripe competitors: Finding the best payment processor for ...",
+        "url": "https://memberful.com/blog/stripe-competitors/"
+      },
+      {
+        "title": "Top 5 Stripe Alternatives for Global Businesses",
+        "url": "https://www.unlimit.com/blog/payments/stripe-alternatives-for-businesses-top-5-in-2026/"
+      },
+      {
+        "title": "Product roadmap: SaaS platforms | Stripe Sessions",
+        "url": "https://stripe.com/in/sessions/2026/product-roadmap-saas-platforms"
+      },
+      {
+        "title": "ElevenLabs expands its use of Stripe to accelerate its growth",
+        "url": "https://stripe.com/en-br/newsroom/news/elevenlabs-and-stripe?__vid=ce21953c-8265-431a-ae77-d5afe13ac54d"
+      },
+      {
+        "title": "Stripe Leads Embedded Finance Market in 2026",
+        "url": "https://www.linkedin.com/posts/fintech-magazine-bizclik_fintech-embeddedfinance-activity-7503735277291663360-nMux"
+      },
+      {
+        "title": "Stripe executives, including Patrick and John Collison ...",
+        "url": "https://www.facebook.com/techinsider/posts/stripe-executives-including-patrick-and-john-collison-claim-the-singularity-bega/1426250252707780/"
+      },
+      {
+        "title": "Runloop Joins Stripe Projects, Providing Essential ...",
+        "url": "https://www.prnewswire.com/news-releases/runloop-joins-stripe-projects-providing-essential-infrastructure-for-the-agentic-commerce-era-302759081.html"
+      },
+      {
+        "title": "Better Stripe Reporting in 2026: Using AI the Right Way",
+        "url": "https://www.zuar.com/blog/stripe-reporting-2026-using-ai-the-right-way/"
+      },
+      {
+        "title": "The AI Economy I Saw at Stripe Sessions 2026",
+        "url": "https://www.htx.com/it-it/news/the-ai-economy-i-saw-at-stripe-sessions-2026-Ib0VjGMd/"
+      },
+      {
+        "title": "Stripe Data Reveals 50% Growth in New Businesses ...",
+        "url": "https://www.linkedin.com/posts/veronica-fernandez-33587a4_i-was-scrolling-linkedin-this-week-and-a-activity-7457862024694255616-w3x1"
+      }
+    ]
+  }
+}
